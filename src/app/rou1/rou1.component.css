@@ -1,0 +1,12 @@
+.sp{
+    text-align: center;
+    background-color: red;
+}
+.cir{
+    border:2px solid black;
+    border-radius:50%;
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    background-color: rgb(197, 216, 228);
+}
